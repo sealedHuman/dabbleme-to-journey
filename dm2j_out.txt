@@ -1,0 +1,45 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceType" : "MacBook Pro",
+  "starred" : false,
+  "creationDate" : "2013-08-03T23:50:45Z",
+  "creationOSVersion" : "10.13.5",
+  "text" : "This is journal entry number one. ",
+  "timeZone" : "America\/Chicago",
+  "creationOSName" : "macOS",
+  "uuid" : "1",
+  "creationDevice" : "MacBook Pro",
+  "creationDeviceModel" : "MacBookPro11,3",
+  "duration" : 0
+},
+{
+  "creationDeviceType" : "MacBook Pro",
+  "starred" : false,
+  "creationDate" : "2013-08-04T23:50:45Z",
+  "creationOSVersion" : "10.13.5",
+  "text" : "This is journal entry number two. What fun! ",
+  "timeZone" : "America\/Chicago",
+  "creationOSName" : "macOS",
+  "uuid" : "2",
+  "creationDevice" : "MacBook Pro",
+  "creationDeviceModel" : "MacBookPro11,3",
+  "duration" : 0
+},
+{
+  "creationDeviceType" : "MacBook Pro",
+  "starred" : false,
+  "creationDate" : "2013-08-05T23:50:45Z",
+  "creationOSVersion" : "10.13.5",
+  "text" : "And this is the third journal entry, naturally. ",
+  "timeZone" : "America\/Chicago",
+  "creationOSName" : "macOS",
+  "uuid" : "3",
+  "creationDevice" : "MacBook Pro",
+  "creationDeviceModel" : "MacBookPro11,3",
+  "duration" : 0
+}
+]}
